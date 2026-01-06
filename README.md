@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m MoAnasBelg
 
 💻 **Web, Mobile & AI Developer**  
-🎓 Licence student in Web, Mobile and Artificial Intelligence development
+🎓 3rd-year Licence student in Web, Mobile and Artificial Intelligence Development (Casablanca, 🇲🇦 Morocco)
 
 I build applications for web and mobile, design user interfaces, and work with modern tools to turn ideas into functional products.
 
@@ -26,7 +26,7 @@ I build applications for web and mobile, design user interfaces, and work with m
 
 ## 📫 Contact
 📧 Email: mohammedanasbelgarrab@gmail.com  
-🤝 Linkedin : Mohammed anas belgarrab
+🤝 Linkedin : [Mohammed anas belgarrab](https://www.linkedin.com/in/mohammed-anas-belgarrab-b9b994362/)
 
 ---
 
