@@ -1,16 +1,36 @@
-## Hi there 👋
+##👋 Hi, I’m MoAnasBelg
 
-<!--
-**MoAnasBelg/MoAnasBelg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Web, Mobile & AI Developer**  
+🎓 Licence student in Web, Mobile and Artificial Intelligence development
 
-Here are some ideas to get you started:
+I build applications for web and mobile, design user interfaces, and work with modern tools to turn ideas into functional products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+**Web:** HTML, CSS, JavaScript, React, Node.js, PHP, Java, Webflow, WordPress  
+**Mobile:** Flutter, Dart, Firebase  
+**AI & Automation:** Python, n8n  
+**UI / UX:** Figma (Apps & Websites), Canva  
+**Databases & Modeling:** MySQL, Oracle, UML, PowerDesigner  
+
+---
+
+## 🎯 Focus
+- Web Development  
+- Mobile Development  
+- Artificial Intelligence & Automation  
+
+---
+
+## 📫 Contact
+📧 Email: mohammedanasbelgarrab@gmail.com  
+🤝 Linkedin : Mohammed anas belgarrab
+
+---
+
+## 🌐 Socials
+[Instagram](https://www.instagram.com/n22_immortal/)
+[X](https://x.com/N22existed)
+
